@@ -2,9 +2,6 @@ import cv2
 import numpy as np
 import csv
 import os
-#Software Issues and To Do
-#1. Doesn't adjust for different magnifications, change that if possible
-#2. The resulting data ends up sometimes being unmanagable. See if can sort automated
 print("In order to use this software, you must have ready a CSV file with its file location along with the file directory of the pictures")
 
 #Let the user input file directory
